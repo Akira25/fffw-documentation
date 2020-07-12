@@ -12,6 +12,9 @@ To satisfy all dependencies for building this documentation, just execute:
 
 The documentation is build via ``make html``.
 
+.. note:
+   It may happen, that spinx will be installed to ``~/.local/bin``. If that happends, you need to add it to your $PATH.
+
 
 Further Configuration
 ---------------------
